@@ -1,0 +1,13 @@
+# Python debris
+__pycache__/
+*.pyc
+
+# Jupyter Notebook clutter
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.xlsx
+
+# Ignore your model files if they are too big
+# *.pkl
